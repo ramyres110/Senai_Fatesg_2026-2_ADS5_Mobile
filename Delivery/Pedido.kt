@@ -1,0 +1,1 @@
+data class Pedido(val cliente: Cliente, val restaurante: Restaurante, val itens: List<Item>, val total: Double)

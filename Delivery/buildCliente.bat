@@ -1,0 +1,1 @@
+kotlinc -include-runtime -d AppCliente.jar Cliente.kt Item.kt Pedido.kt Restaurante.kt AppCliente.kt
