@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trip Planner BR</string>
+    <string name="origin">Origin</string>
+    <string name="destiny">Destination</string>
+    <string name="trips">Tours</string>
+    <string name="contact">Contact</string>
+
+    <!-- General / Navigation -->
+    <string name="user_profile">User Profile</string>
+    <string name="new_destination">New Destination</string>
+    <string name="destination_details">Destination Details</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="success">Success</string>
+    <string name="traveler">Traveler</string>
+    <string name="user">User</string>
+    <string name="destination">Destination</string>
+
+    <!-- Status -->
+    <string name="trip_status">Trip Status</string>
+    <string name="trip_status_label">Trip Status:</string>
+    <string name="pending">Pending</string>
+    <string name="pending_plural">Pending</string>
+    <string name="status_in_progress">In Progress</string>
+    <string name="completed">Completed</string>
+    <string name="completed_plural">Completed</string>
+    <string name="all">All</string>
+    <string name="filter_destinations_by_status">Filter Destinations by Status:</string>
+
+    <!-- Home / Area De Pouso -->
+    <string name="hello_user">Hello, %1$s!</string>
+    <string name="origin_format">Origin: %1$s - %2$s</string>
+    <string name="tap_to_configure_origin">Tap to configure your Origin City</string>
+    <string name="no_destinations_registered">No destinations registered yet.\nTap the \'+\' button to add your first destination!</string>
+    <string name="no_destinations_filtered">No destinations found with this filter.</string>
+    <string name="date_format">Date: %1$s</string>
+    <string name="distance_format">Distance: %1$s Km</string>
+    <string name="budget_format">Budget: R$ %1$.2f</string>
+
+    <!-- Profile -->
+    <string name="your_profile">Your Profile</string>
+    <string name="personal_info">Personal Information</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">E-mail</string>
+    <string name="origin_location_header"> Origin Location (Residence)</string>
+    <string name="state_uf">State (UF)</string>
+    <string name="origin_city">Origin City</string>
+    <string name="cep_digits_only">CEP (Digits only)</string>
+    <string name="profile_saved_success">Profile saved successfully!</string>
+    <string name="save_profile">Save Profile</string>
+
+    <!-- New Destination -->
+    <string name="add_new_trip_destination">Add New Trip Destination</string>
+    <string name="destination_state_uf">Destination State (UF)</string>
+    <string name="destination_city_ibge">Destination City (IBGE)</string>
+    <string name="estimated_distance_km">Estimated Distance (Km)</string>
+    <string name="planned_budget_brl">Planned Budget (R$)</string>
+    <string name="planned_date_placeholder">Planned Date (e.g., DD/MM/YYYY)</string>
+    <string name="register_destination">Register Destination</string>
+    <string name="error_select_state_city">Please select a State and a City.</string>
+
+    <!-- Destination Details -->
+    <string name="delete_destination">Delete Destination</string>
+    <string name="destination_not_found">Destination not found.</string>
+    <string name="planned_date_format">Planned Date: %1$s</string>
+    <string name="cep_format">CEP: %1$s</string>
+    <string name="planned_tours_count">Planned Tours (%1$d)</string>
+    <string name="add_tour">Add Tour</string>
+    <string name="no_tours_registered">No tours registered.</string>
+    <string name="guides_and_hotels_count">Guides &amp; Hotels (%1$d)</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="no_contacts_registered">No contacts registered.</string>
+    <string name="new_tour">New Tour</string>
+    <string name="tour_description">Tour Description</string>
+    <string name="new_contact_guide_hotel">New Contact (Guide/Hotel)</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="delete_destination_confirm_message">Are you sure you want to delete this destination?</string>
+    <string name="delete_tour">Delete Tour</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="phone_format">Tel: %1$s</string>
+    <string name="email_format">E-mail: %1$s</string>
+</resources>
