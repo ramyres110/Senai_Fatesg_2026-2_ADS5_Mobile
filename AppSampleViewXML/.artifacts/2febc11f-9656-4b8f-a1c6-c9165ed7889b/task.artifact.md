@@ -1,0 +1,5 @@
+- [x] Add INTERNET and LOCATION permissions to `AndroidManifest.xml`
+- [x] Create `WeatherService.java` for API integration
+- [x] Update `activity_main.xml` with weather UI in the dashboard
+- [x] Update `MainActivity.java` with location logic and weather fetching
+- [x] Verify weather dashboard with location
